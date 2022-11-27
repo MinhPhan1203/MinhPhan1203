@@ -1,16 +1,13 @@
-### Hi there 👋
+###About Me 
 
-<!--
-**MinhPhan1203/MinhPhan1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⛅ HTML : 70% / 100% 
 
-Here are some ideas to get you started:
+🌨 CSS : 30% / 100% 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌪 JavaScript : 0% / 100%
+
+That all my skills 
+
+Experience : 6 month
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=tokyonight)
