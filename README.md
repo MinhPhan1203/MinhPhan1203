@@ -14,6 +14,10 @@ That all my skills
 
 Experience : 6 month
 
+🌌 Discord : ! MinhPhan#4654
+
+🌍 FaceBook : https://www.facebook.com/profile.php?id=100068321925327
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=synthwave)
 
 
