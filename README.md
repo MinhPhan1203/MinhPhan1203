@@ -1,4 +1,4 @@
-##About Me 
+# About Me 
 
 ⛅ HTML : 70% / 100% 
 
@@ -7,6 +7,8 @@
 🌪 JavaScript : 0% / 100%
 
 🌕 React : 0% / 100%
+
+🌀 PHP : 0% / 100%
 
 That all my skills 
 
