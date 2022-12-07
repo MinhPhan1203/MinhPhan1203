@@ -3,7 +3,6 @@
 
 # 💫About Me :
 
-
 Birthday : 12/03
 
 Live at : Kim Chung, Dong Anh, Ha Noi, VietNam
