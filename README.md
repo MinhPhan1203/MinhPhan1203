@@ -1,18 +1,9 @@
 # 💫About Me :
-# About Me 
 
-⛅ HTML : 70% / 100% 
-
-🌨 CSS : 30% / 100% 
-
-🌪 JavaScript : 0% / 100%
-
-🌕 React : 0% / 100%
-
-🌀 PHP : 0% / 100%
-
-That all my skills 
-
+Normal student and developer
+Not have much time to sleep
+Some time i think i dead with deadline 
+ 
 Experience : 6 month
 
 ## 🌐Socials
