@@ -18,9 +18,8 @@ Experience : 6 month
 
 🌍 FaceBook : https://www.facebook.com/profile.php?id=100068321925327
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhan1203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhan1203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
