@@ -24,6 +24,9 @@ Experience : 6 month
 ![](https://github-trophies.vercel.app/?username=MinhPhan1203&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 [![](https://visitcount.itsvg.in/api?id=MinhPhan1203&icon=7&color=5)](https://visitcount.itsvg.in)
 
 
