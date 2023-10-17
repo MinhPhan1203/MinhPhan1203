@@ -1,16 +1,14 @@
-### Hi there 👋
+#
+ 
+ Name : **MinhPhan** or **BaoMinh**
 
-<!--
-**MinhPhan1203/MinhPhan1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Live : **Ha Noi, Viet nam**
 
-Here are some ideas to get you started:
+ Study at : **Bac Thang Long High School**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Good with **HTML**, **CSS**, **Python**,  **Java**, **Javascript**
+
+ Operating system : btw I use Arch
+
+ Contact : https://minhphan.tech
+
