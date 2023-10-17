@@ -1,4 +1,8 @@
 #
+<br> 
+<div>
+ 
+</div>
  
  Name : **MinhPhan** or **BaoMinh**
 
@@ -12,3 +16,6 @@
 
  Contact : https://minhphan.tech
 
+ <br> <br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/926098921338593320)](https://discord.com/users/926098921338593320)
