@@ -14,7 +14,7 @@
 
  - Code is being learned : **HTML**, **CSS**, **Python**,  **Java**, **Javascript** and **PHP**
 
- - Operating system : **Arch**, **Debian** and **Window**
+ - Operating system : **Arch**, **NixOS** and **Window**
    
  - Contact : https://minhphan.is-a.dev
 
