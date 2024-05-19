@@ -1,26 +1,22 @@
-#
-<br> 
-<div>
- <img src="https://i.pinimg.com/564x/17/92/6c/17926cfa9cf9fe2c0570a8c53ccf4a8c.jpg" height="200" align="right"><br>
- <img src="genshin-ganyu-beg-512x512.png" width="280" align="left" > <br>
-</div>
-<br>
- 
-- Name : **MinhPhan** or **Minh**
+# Hello There 👋
 
- - Live : **Ha Noi, Viet nam**
+## Some info about me :
+<li> My full name is Phan Sơn Bảo Minh. I live at <a href="https://vi.wikipedia.org/wiki/Kim_Chung,_%C4%90%C3%B4ng_Anh" target="_blank">Kim Chung, Đông Anh, Hà Nội</a>. </li> <br>
+<li> I'm a <strong>Student</strong>, <strong>Gamer</strong> and <strong>Amateur Developer</strong> now.</li><br>
+<li> I am a eleventh grader at <a href="http://thptbacthanglong.edu.vn/" target="_blank">Bac Thang Long HighSchool</a>.</li><br>
+<li> My favorite game is <a href="https://teamfighttactics.leagueoflegends.com/en-us/" target="_blank">TFT (TeamFight Tactics)</a> and <a href="https://www.arenaofvalor.com/" target="_blank">AOV (Arena Of Valor)</a>.</li> <br>
+<li> And my favorite sport is <a href="https://en.wikipedia.org/wiki/Badminton" target="_blank" rel="noopener noreferrer">Badminton</a>.</li> <br>
+<li> Sometimes i have listening music and my favorite singers is <a href="https://en.wikipedia.org/wiki/The_Weeknd" target="_blank">The Weekend</a> and <a href="https://www.youtube.com/channel/UC6bXz3g1C9H6bdFa-wcZ72Q" target="_blank">52Hz</a>.</li>   <br>
+<li> Also I very like anime and manga, my favorite category is <strong>Romance</strong>.</li> <br>
+<li> My favorite series is <a href="https://5hanayome.fandom.com/wiki/5Toubun_no_Hanayome_Wiki" target="_blank">The Quintessential Quintuplets</a>. My waifu is <a href="https://5hanayome.fandom.com/wiki/Nino_Nakano" target="_blank">Nino Nakano</a>. </li><br>
+<li> I'm very interested in technology. I learn about <a href="https://www.home-assistant.io/" target="_blank">Home Assistant</a>. </li><br>
+<li> My Linux distro is <a href="https://archlinux.org/" target="_blank">Arch</a> and <a href="https://nixos.org/" target="_blank">NixOs</a>. </li><br>
 
-- Study at : **Bac Thang Long High School**
+***         
 
- - Code is being learned : **HTML**, **CSS**, **Python**,  **Java**, **Javascript** and **PHP**
 
- - Operating system : **Arch**, **NixOS** and **Window**
-   
- - Contact : https://minhphan.is-a.dev
+[![Discord Presence](https://lanyard.cnrad.dev/api/926098921338593320)](https://discord.com/users/926098921338593320) 
 
-<img src="genshin-ganyu-tired.png" width="280" align="left"> 
-<img src="https://i.pinimg.com/564x/5e/72/19/5e721904d122efbd911c2bbb0325a272.jpg" height="500"align="right"/>
-
- <br> <br>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/926098921338593320)](https://discord.com/users/926098921338593320) <br> <br> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=tokyonight)
+# Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=tokyonight) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhan1203&layout=compact&theme=tokyonight)
