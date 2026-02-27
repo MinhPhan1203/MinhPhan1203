@@ -22,4 +22,4 @@
 
 <h2>Github Stats :</h2>
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MinhPhan1203&show_icons=true$theme=tokyonight)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=tokyonight)
