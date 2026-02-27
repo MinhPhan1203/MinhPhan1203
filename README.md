@@ -22,12 +22,4 @@
 
 <h2>Github Stats :</h2>
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MinhPhan1203&show_icons=true)
-<!-- <div align="center">
-  <img
-    width="370"
-    src="https://github-readme-stats.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=tokyonight"
-    />
-
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhPhan1203&layout=compact&theme=tokyonight"/>
-</div> -->
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MinhPhan1203&show_icons=true$theme=tokyonight)
