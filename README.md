@@ -19,7 +19,6 @@ I'm studying at **[Hanoi University of Mining and Geology (HUMG)](https://humg.e
 
 | Area | What keeps me curious |
 | :--- | :--- |
-| **Web development** | Learning by building personal websites, profile cards, and small projects. |
 | **Linux** | Exploring **Arch Linux** and **CachyOS**, and getting comfortable with the command line. |
 | **Smart homes** | Learning about **Home Assistant** and home automation. |
 | **Photography** | Learning about cameras and photography, especially **Canon** and **Fujifilm**. |
