@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, I'm Minh</title>
+  <desc id="desc">Student, gamer and amateur developer in Hanoi. A pastel mountain landscape with a camera viewfinder, in Catppuccin colors.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#cdd6f4" stroke-opacity=".045"/></pattern>
+    <clipPath id="frame"><rect x="760" y="40" width="400" height="280" rx="22"/></clipPath>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="#1e1e2e"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <rect x="48" y="48" width="8" height="8" rx="4" fill="#a6e3a1"/>
+    <text x="68" y="58" font-size="12" letter-spacing="2.4" fill="#a6adc8">A LITTLE CORNER OF THE INTERNET</text>
+    <text x="46" y="141" font-size="64" font-weight="700" fill="#cdd6f4">Hello, I'm <tspan fill="#cba6f7">Minh.</tspan></text>
+    <text x="49" y="183" font-size="21" fill="#bac2de">Student. Gamer. Amateur developer.</text>
+    <text x="49" y="221" font-size="17" fill="#a6adc8">Curious about technology. Always learning.</text>
+    <path d="M49 257H695" stroke="#45475a"/>
+    <text x="49" y="292" font-size="15" fill="#89b4fa">HÀ NỘI, VIỆT NAM</text>
+    <text x="695" y="292" text-anchor="end" font-size="15" fill="#cba6f7">minhphan.is-a.dev ↗</text>
+  </g>
+  <g clip-path="url(#frame)">
+    <rect x="760" y="40" width="400" height="280" fill="#181825"/>
+    <circle cx="1058" cy="112" r="38" fill="#f9e2af"/>
+    <path d="M737 300 874 110 1039 320H737Z" fill="#585b70"/>
+    <path d="m840 157 34-47 39 50-31-15-15 15-12-13Z" fill="#cdd6f4"/>
+    <path d="m912 320 143-142 138 142Z" fill="#89b4fa"/>
+    <path d="m1022 211 33-33 34 34-26-10-10 10-15-10Z" fill="#cdd6f4"/>
+    <path d="M740 291Q823 252 930 296T1180 267V340H740Z" fill="#94e2d5"/>
+    <path d="M740 318Q900 265 1050 318T1180 301V340H740Z" fill="#a6e3a1"/>
+    <g stroke="#cba6f7" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M790 84V68H806M1114 68H1130V84M790 276V292H806M1114 292H1130V276"/>
+      <path d="M824 104v14m-7-7h14M1110 153v12m-6-6h12"/>
+    </g>
+    <rect x="832" y="258" width="256" height="38" rx="19" fill="#1e1e2e"/>
+    <text x="960" y="282" text-anchor="middle" font-family="DejaVu Sans Mono, monospace" font-size="13" fill="#cdd6f4">code · games · photography</text>
+  </g>
+  <rect x="760" y="40" width="400" height="280" rx="22" fill="none" stroke="#45475a"/>
+</svg>
