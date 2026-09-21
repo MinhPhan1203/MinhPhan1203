@@ -1,23 +1,47 @@
-<h1 align="center">Hello There 👋 </h1>
+<div align="center">
 
-<h2>Some info about me :</h2>
-<h4><li> My full name is Phan Sơn Bảo Minh. I live at <a href="https://vi.wikipedia.org/wiki/Kim_Chung,_%C4%90%C3%B4ng_Anh" target="_blank">Kim Chung, Đông Anh, Hà Nội</a>. </li> <br>
-<li> I'm a <strong>Student</strong>, <strong>Gamer</strong> and <strong>Amateur Developer</strong> now.</li><br>
-<li> I am a twelfth grader at <a href="http://thptbacthanglong.edu.vn/" target="_blank">Bac Thang Long HighSchool</a>.</li><br>
-<li> My favorite game is <a href="https://teamfighttactics.leagueoflegends.com/en-us/" target="_blank">TFT (TeamFight Tactics)</a> and <a href="https://www.arenaofvalor.com/" target="_blank">AOV (Arena Of Valor)</a>.</li> <br>
-<li> And my favorite sport is <a href="https://en.wikipedia.org/wiki/Badminton" target="_blank" rel="noopener noreferrer">Badminton</a>.</li> <br>
-<li> Sometimes i have listening music and my favorite singers is <a href="https://en.wikipedia.org/wiki/The_Weeknd" target="_blank">The Weekend</a> and <a href="https://www.youtube.com/channel/UC6bXz3g1C9H6bdFa-wcZ72Q" target="_blank">52Hz</a>.</li>   <br>
-<li> I'm very interested in technology. I learn about <a href="https://www.home-assistant.io/" target="_blank">Home Assistant</a>. </li><br>
-<li> My Linux distro is <a href="https://archlinux.org/" target="_blank">Arch</a> and <a href="https://nixos.org/" target="_blank">NixOs</a>. </li><br></h4>
+# Hi there, I'm Minh 👋
 
-***         
+### Student · Gamer · Amateur Developer
 
-<h2>Discord :</h2>
+Exploring technology, tinkering with Linux, and learning about smart homes.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/926098921338593320)](https://discord.com/users/926098921338593320) 
+[![GitHub](https://img.shields.io/badge/GitHub-MinhPhan1203-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MinhPhan1203)
+[![Discord](https://img.shields.io/badge/Discord-Say_hello-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/926098921338593320)
 
-***
+</div>
 
-<h2>Github Stats :</h2>
+---
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=tokyonight)
+## A little about me
+
+- 👋 My name is **Phan Sơn Bảo Minh**, and I'm from **Hanoi, Vietnam**.
+- 🎓 I'm a student at **[Bac Thang Long High School](http://thptbacthanglong.edu.vn/)**.
+- 🐧 I enjoy exploring **Linux**, especially **Arch Linux** and **NixOS**.
+- 🏡 I'm learning about **[Home Assistant](https://www.home-assistant.io/)** and smart home technology.
+
+## Things I enjoy
+
+| 🎮 Gaming | 🏸 Sports | 🎧 Music |
+| :--- | :--- | :--- |
+| Teamfight Tactics & Arena of Valor | Badminton | The Weeknd & 52Hz |
+
+## My tech corner
+
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
+[![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
+
+## Let's connect
+
+Find me on **[Discord](https://discord.com/users/926098921338593320)** — say hello!
+
+[![Minh's Discord presence](https://lanyard.cnrad.dev/api/926098921338593320?theme=dark&hideDiscrim=true&borderRadius=12)](https://discord.com/users/926098921338593320)
+
+## GitHub activity
+
+[![Minh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MinhPhan1203&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/MinhPhan1203)
+
+---
+
+<p align="center">Thanks for stopping by! ✨</p>
